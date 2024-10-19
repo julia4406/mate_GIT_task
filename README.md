@@ -1,2 +1,4 @@
 # mate_GIT_task
-task Cit/GitHub learning and testing
+This is task for 
+Cit/GitHub learning and testing
+mate-academy Python-course
